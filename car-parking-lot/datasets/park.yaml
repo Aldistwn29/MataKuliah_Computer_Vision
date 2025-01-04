@@ -1,0 +1,9 @@
+# Dataset Path
+path: 
+
+train: train\images # relative to path
+val: valid\images # relative to path
+test: test\images # relative to path
+
+# Class Names
+names: [Car, Empty Space]
